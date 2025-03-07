@@ -7,5 +7,7 @@ abstract class Shape {
         this.dim_three = dim_three;
     }
 
+    public abstract double CalculateArea();
+
 }
 
